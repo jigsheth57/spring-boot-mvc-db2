@@ -1,11 +1,4 @@
-target/
+target/*
+.*
 !target/*.war
-.settings/
-.springBeans
-.classpath
-.project
-bin/
-.idea
-*.iml
-.gradle
-build/
+/target/
